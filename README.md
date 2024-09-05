@@ -108,5 +108,10 @@ for 3D Shape Matching [`oth.`]
 - [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500715.pdf)] DeepGMR: Learning Latent Gaussian Mixture Models for Registration  [[code](https://github.com/wentaoyuan/deepgmr)] [`est.` `corr.`]
 - [[ARXIV](https://arxiv.org/abs/2001.07715)] TEASER: Fast and Certifiable Point Cloud Registration. [[code](https://github.com/MIT-SPARK/TEASER-plusplus)] [`corr.` `opt.`]
 
+## 2022
+- [[ICRA](https://arxiv.org/abs/2203.06612)] A Single Correspondence Is Enough: Robust Global Registration to Avoid Degeneracy in Urban Environments [[code](https://github.com/url-kaist/Quatro)] [`corr.` `opt.`] :fire:
+
 ## 2023
 - [[Measurement,Elsever](https://www.sciencedirect.com/science/article/abs/pii/S0263224123007637)] Benchmark of multi-view Terrestrial Laser Scanning Point Cloud data registration algorithms [[code](https://github.com/MapsHD/HDMapping)] [`est.` `opt.` `oth.`]
+- [[ICRA](https://arxiv.org/abs/2301.07425)] Segregator: Global Point Cloud Registration with Semantic and Geometric Cues [[code](https://github.com/Pamphlett/Segregator)] [`corr.` `opt.`] :fire:
+- [[TASE](https://arxiv.org/abs/2308.11573)] G3Reg: Pyramid Graph-based Global Registration using Gaussian Ellipsoid Model [[code](https://github.com/HKUST-Aerial-Robotics/G3Reg)] [`corr.` `opt.`] :fire:
